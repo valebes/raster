@@ -108,7 +108,7 @@ use std::fs::File;
 use std::path::Path;
 
 // from external crate
-use piston_image::GenericImage;
+use piston_image::GenericImageView;
 
 // from local crate
 use error::{RasterError, RasterResult};
